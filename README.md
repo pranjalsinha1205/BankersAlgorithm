@@ -1,7 +1,7 @@
 # Multithreaded implementation of Banker's Algorithm
 
-QUESTION STATEMENT
 
+# QUESTION STATEMENT
 
 Project Title: Multithreaded Banker’s Algorithm Implementation
 
