@@ -37,8 +37,7 @@ iv)	Circular wait
 The Banker’s Algorithm is there to avoid the deadlock and keep the system in a safe state.
 
 
-# HOW I THOUGHT OF THE SOLUTION
-# (REQUIREMENTS OF THE SOLUTION)
+# HOW I THOUGHT OF THE SOLUTION (REQUIREMENTS OF THE SOLUTION)
 
 First of all, I tried to understand the depth of the problem. The problem required me to do three things :-
 i)	To make the program dynamic and create threads at runtime, meaning I need to take inputs from the user at runtime
@@ -79,6 +78,7 @@ FUNCTION banker_algorithm(ARGUMENTS):
     THREAD EXIT
 
 INT main():
+
     INT MAX
     INT available
 
