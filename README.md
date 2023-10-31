@@ -114,5 +114,5 @@ INT main():
 
 # SNAPSHOT
 
-![pic1](https://github.com/pranjalsinha1205/BankersAlgorithm/assets/112460531/cb01f5c5-9133-415f-80c0-8a87c0ee8248)
+![pic1](https://github.com/pranjalsinha1205/BankersAlgorithm/assets/112460531/e597d6c5-d007-42be-a04b-e78296698f65)
 
